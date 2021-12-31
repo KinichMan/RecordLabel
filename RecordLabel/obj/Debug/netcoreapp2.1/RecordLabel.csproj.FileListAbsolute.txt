@@ -1,0 +1,17 @@
+C:\Users\Asus\Documents\Kinich\Craft Code\Backend\004 Desarollo de una aplicación\Proyecto\RecordLabel\RecordLabel\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Asus\Documents\Kinich\Craft Code\Backend\004 Desarollo de una aplicación\Proyecto\RecordLabel\RecordLabel\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Asus\Documents\Kinich\Craft Code\Backend\004 Desarollo de una aplicación\Proyecto\RecordLabel\RecordLabel\bin\Debug\netcoreapp2.1\RecordLabel.deps.json
+C:\Users\Asus\Documents\Kinich\Craft Code\Backend\004 Desarollo de una aplicación\Proyecto\RecordLabel\RecordLabel\bin\Debug\netcoreapp2.1\RecordLabel.runtimeconfig.json
+C:\Users\Asus\Documents\Kinich\Craft Code\Backend\004 Desarollo de una aplicación\Proyecto\RecordLabel\RecordLabel\bin\Debug\netcoreapp2.1\RecordLabel.runtimeconfig.dev.json
+C:\Users\Asus\Documents\Kinich\Craft Code\Backend\004 Desarollo de una aplicación\Proyecto\RecordLabel\RecordLabel\bin\Debug\netcoreapp2.1\RecordLabel.dll
+C:\Users\Asus\Documents\Kinich\Craft Code\Backend\004 Desarollo de una aplicación\Proyecto\RecordLabel\RecordLabel\bin\Debug\netcoreapp2.1\RecordLabel.pdb
+C:\Users\Asus\Documents\Kinich\Craft Code\Backend\004 Desarollo de una aplicación\Proyecto\RecordLabel\RecordLabel\obj\Debug\netcoreapp2.1\RecordLabel.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Kinich\Craft Code\Backend\004 Desarollo de una aplicación\Proyecto\RecordLabel\RecordLabel\obj\Debug\netcoreapp2.1\RecordLabel.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Kinich\Craft Code\Backend\004 Desarollo de una aplicación\Proyecto\RecordLabel\RecordLabel\obj\Debug\netcoreapp2.1\RecordLabel.AssemblyInfo.cs
+C:\Users\Asus\Documents\Kinich\Craft Code\Backend\004 Desarollo de una aplicación\Proyecto\RecordLabel\RecordLabel\obj\Debug\netcoreapp2.1\RecordLabel.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Kinich\Craft Code\Backend\004 Desarollo de una aplicación\Proyecto\RecordLabel\RecordLabel\obj\Debug\netcoreapp2.1\RecordLabel.RazorAssemblyInfo.cache
+C:\Users\Asus\Documents\Kinich\Craft Code\Backend\004 Desarollo de una aplicación\Proyecto\RecordLabel\RecordLabel\obj\Debug\netcoreapp2.1\RecordLabel.RazorAssemblyInfo.cs
+C:\Users\Asus\Documents\Kinich\Craft Code\Backend\004 Desarollo de una aplicación\Proyecto\RecordLabel\RecordLabel\obj\Debug\netcoreapp2.1\RecordLabel.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Documents\Kinich\Craft Code\Backend\004 Desarollo de una aplicación\Proyecto\RecordLabel\RecordLabel\obj\Debug\netcoreapp2.1\RecordLabel.dll
+C:\Users\Asus\Documents\Kinich\Craft Code\Backend\004 Desarollo de una aplicación\Proyecto\RecordLabel\RecordLabel\obj\Debug\netcoreapp2.1\RecordLabel.pdb
+C:\Users\Asus\Documents\Kinich\Craft Code\Backend\004 Desarollo de una aplicación\Proyecto\RecordLabel\RecordLabel\obj\Debug\netcoreapp2.1\RecordLabel.genruntimeconfig.cache
